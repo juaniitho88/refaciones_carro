@@ -2,9 +2,19 @@
 - ![LIGIE-UNIFICADA-LIGIE_20240826-20240826.pdf](../assets/LIGIE-UNIFICADA-LIGIE_20240826-20240826_1775502497366_0.pdf)
 	- seccion de microfiltros 
 	  ((69d40555-0b03-462d-a671-4cea35fdb178))
-	- ((69d40618-3c53-4151-bcdf-04d1e4e082fc))
-	- **8421.39**
-	- ((69d407ba-1364-4daf-ba7a-a861f80193e6))
-		- impuesto de 5%
-	-
+		- ((69d40618-3c53-4151-bcdf-04d1e4e082fc))
+		- **8421.39**
+		- ((69d407ba-1364-4daf-ba7a-a861f80193e6))
+			- impuesto de 5%
+	- seccion para orings
+		- ((69d4447e-01bd-4dc1-8f99-147a3b455dc5))
+			- ((69d444bc-0d5e-415c-a8f9-f6376c4c70ff))
+			- ((69d444fa-47af-4259-b047-656ce9141dbc))
+				- ((69d44543-3e71-4562-b42a-5cae1e95fe6f))
+				- ((69d4457a-4210-4a24-801e-dc43bc9d381b))
+					- impuesto de 5 %
+				-
+			-
+			-
+		-
 	-
