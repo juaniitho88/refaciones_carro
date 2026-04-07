@@ -1,0 +1,26 @@
+- orings
+	- `OR-<MATERIAL>-<DIAM_INT>-<GROSOR>-<DUREZA>`
+	- ### Ejemplos
+		- `OR-NBR-010-002-70`
+		- `OR-VIT-025-003-75`
+		- `OR-SIL-050-005-60`
+		- `OR-EPDM-100-010-70`
+	- ### Significado
+		- **OR** = categoría (O-ring)
+		- **NBR / VIT / SIL / EPDM** = material (Nitrilo, Viton, Silicón, EPDM)
+		- **010 / 025 / 050** = diámetro interno (mm)
+		- **002 / 003 / 005** = grosor (mm)
+		- **70 / 75 / 60** = dureza Shore A
+- filtros
+	- `FI-<TIPO>-<APLICACION>-<MEDIDA>-<MICRAJE>`
+	- ###  Ejemplos
+		- `FI-AIR-IND-500-10`
+		- `FI-OIL-AUTO-300-20`
+		- `FI-WAT-RES-100-05`
+		- `FI-HYD-IND-250-25`
+	- ###  Significado
+		- **FI** = categoría (Filtro)
+		- **AIR / OIL / WAT / HYD** = tipo (aire, aceite, agua, hidráulico)
+		- **IND / AUTO / RES** = aplicación (industrial, automotriz, residencial)
+		- **500 / 300 / 100** = tamaño o capacidad
+		- **10 / 20 / 05** = micraje (filtración en micras)
